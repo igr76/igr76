@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning on Skypro
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gritsuk76@mail.ru
-  #Languages and Tools:
+  # Languages and Tools:
 docker git html5 java linux postgresql postman spring sqlite
 
 <!---
